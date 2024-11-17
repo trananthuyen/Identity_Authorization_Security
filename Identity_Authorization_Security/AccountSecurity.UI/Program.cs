@@ -54,12 +54,18 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.UseEndpoints(endpoints =>
+/*app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
         name: "default",
         pattern: "{controller=Home}/{action=Index}/{id?}");
 });
+  ///////// OR /////////////
+  [Route("[Controller]/[action]")] IN CONTROLLER
+
+  2 CACH NAY DEU DUOC SUC DUNG DE DINH TUYEN
+ 
+ */
 
 
 app.Run();

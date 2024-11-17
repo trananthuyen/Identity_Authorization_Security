@@ -9,6 +9,6 @@ namespace AccountManager.Core.Domain.IdentifyEntities
 {
     public class ApplicationUser : IdentityUser<Guid>
     {
-        public string? AccountName { get; set; }
+        public string? AccountName { get; set; }  // tao thuoc tinh moi cho IdentityUser (lop ho tro ve bao mat)
     }
 }
