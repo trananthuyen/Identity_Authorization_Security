@@ -1,0 +1,12 @@
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\bin\Debug\net6.0\AccountManager.Core.deps.json
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\bin\Debug\net6.0\AccountManager.Core.dll
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\bin\Debug\net6.0\AccountManager.Core.pdb
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\AccountManager.Core.csproj.AssemblyReference.cache
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\AccountManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\AccountManager.Core.AssemblyInfoInputs.cache
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\AccountManager.Core.AssemblyInfo.cs
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\AccountManager.Core.csproj.CoreCompileInputs.cache
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\AccountManager.Core.dll
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\refint\AccountManager.Core.dll
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\AccountManager.Core.pdb
+C:\Identity_Authorization_Security\Identity_Authorization_Security\AccountManager.Core\obj\Debug\net6.0\ref\AccountManager.Core.dll

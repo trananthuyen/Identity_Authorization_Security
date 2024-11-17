@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ZCU/sFmKcrPIYKxiXl8OX8IE5hqAwDWONHxkoyOJFF0=",
+  "Source": "AccountSecurity",
+  "BasePath": "_content/AccountSecurity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AccountSecurity\\wwwroot",
+      "Source": "AccountSecurity",
+      "ContentRoot": "C:\\Identity_Authorization_Security\\Identity_Authorization_Security\\AccountSecurity\\wwwroot\\",
+      "BasePath": "_content/AccountSecurity",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Identity_Authorization_Security\\Identity_Authorization_Security\\AccountSecurity\\wwwroot\\login.css",
+      "SourceId": "AccountSecurity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Identity_Authorization_Security\\Identity_Authorization_Security\\AccountSecurity\\wwwroot\\",
+      "BasePath": "_content/AccountSecurity",
+      "RelativePath": "login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.css"
+    }
+  ]
+}

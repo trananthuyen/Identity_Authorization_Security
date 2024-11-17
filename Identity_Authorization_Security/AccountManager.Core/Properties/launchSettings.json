@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AccountManager.Core": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Identity_Authorization_Security\\Identity_Authorization_Security\\AccountSecurity.UI"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+﻿@model LoginDTO;
+
+@{
+    ViewBag.Title = "Login";
+    ViewBag.CurrentUrl = "~/Account/Login";
+}
+
+<div class="login-iframe">
+
+    <div class="body-login">
+        <div class="login">
+            <form asp-controller="Account" asp-action="Login">
+                <h2>Log In</h2>
+                <div class="box">
+                    <p>Account Name</p>
+                    <input asp-for="AccountName" />
+                    <span asp-validation-for="AccountName" style="color:Tomato;"></span>
+                </div>
+                <div class="box">
+                    <p>Password</p>
+                    <input asp-for="Password" type="password">
+                    <span asp-validation-for="Password" style="color:Tomato;"></span>
+                </div>
+
+               
+                <button class="btnLogin" type="submit">Login</button>
+
+
+
+
+                <div class="query">
+                    <p>Create an <a asp-controller="Account" asp-action="SignUp">Account</a></p>
+
+
+                    <div asp-validation-summary="All" style="color:Tomato;"></div>
+
+                    @*or*@
+
+                @*    @if (ViewBag.Errors != null)
+                    {
+                        <div color="red">
+                            <ul>
+                                @foreach (string error in ViewBag.Errors)
+                                {
+                                    <li class="ml">@error</li>
+                                }
+                            </ul>
+                        </div>
+                    }*@
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>

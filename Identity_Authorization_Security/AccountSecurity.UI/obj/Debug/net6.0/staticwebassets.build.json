@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "nzmk6vrqSQvUhNl1bTPZ1aK3XwYE7w0mDrLTQO19Z6g=",
+  "Source": "AccountSecurity.UI",
+  "BasePath": "_content/AccountSecurity.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AccountSecurity.UI\\wwwroot",
+      "Source": "AccountSecurity.UI",
+      "ContentRoot": "C:\\Identity_Authorization_Security\\Identity_Authorization_Security\\AccountSecurity.UI\\wwwroot\\",
+      "BasePath": "_content/AccountSecurity.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Identity_Authorization_Security\\Identity_Authorization_Security\\AccountSecurity.UI\\wwwroot\\StyleSheet1.css",
+      "SourceId": "AccountSecurity.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Identity_Authorization_Security\\Identity_Authorization_Security\\AccountSecurity.UI\\wwwroot\\",
+      "BasePath": "_content/AccountSecurity.UI",
+      "RelativePath": "StyleSheet1.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet1.css"
+    }
+  ]
+}
